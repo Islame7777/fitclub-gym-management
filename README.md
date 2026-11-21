@@ -1,8 +1,6 @@
 # 🏋️ FitClub
 
-FitClub is a full-stack fitness management platform developed during an internship project to help users monitor workouts, nutrition, and fitness progress through a modern and intuitive web application.
-
-The platform provides personalized dashboards for members and an administration interface for managing users, memberships, and fitness-related data.
+Developed by **Islame Ouhemmou** during an internship at **Softevenart**, FitClub is a full-stack fitness management platform designed to help users track workouts, monitor nutrition, and manage fitness goals through a modern and responsive web application. The platform also provides administrators with tools for membership management, subscriptions, communication, and performance monitoring.
 
 ## 🚀 Features
 
